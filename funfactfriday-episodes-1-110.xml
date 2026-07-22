@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Fun Fact Friday - Episodes 1-110 (custom feed)</title>
+    <link>https://funfactfriday.com</link>
+    <language>en-us</language>
+    <itunes:author>D.E. Medus</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <description>Episodes 1 through 110, numbered only, for playback.</description>
+    <item>
+      <title>Episode 1</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0001.mp3</guid>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0001.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 2</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0002.mp3</guid>
+      <pubDate>Fri, 08 Jan 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0002.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 3</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0003.mp3</guid>
+      <pubDate>Fri, 15 Jan 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0003.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 4</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0004.mp3</guid>
+      <pubDate>Fri, 22 Jan 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0004.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 5</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0005.mp3</guid>
+      <pubDate>Fri, 29 Jan 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0005.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 6</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0006.mp3</guid>
+      <pubDate>Fri, 05 Feb 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0006.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 7</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0007.mp3</guid>
+      <pubDate>Fri, 12 Feb 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0007.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 8</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0008.mp3</guid>
+      <pubDate>Fri, 19 Feb 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0008.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 9</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0009.mp3</guid>
+      <pubDate>Fri, 26 Feb 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0009.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 10</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0010.mp3</guid>
+      <pubDate>Fri, 05 Mar 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0010.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 11</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0011.mp3</guid>
+      <pubDate>Fri, 12 Mar 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0011.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 12</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0012.mp3</guid>
+      <pubDate>Fri, 19 Mar 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0012.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 13</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0013.mp3</guid>
+      <pubDate>Fri, 26 Mar 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0013.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 14</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0014.mp3</guid>
+      <pubDate>Fri, 02 Apr 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0014.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 15</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0015.mp3</guid>
+      <pubDate>Fri, 09 Apr 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0015.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 16</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0016.mp3</guid>
+      <pubDate>Fri, 16 Apr 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0016.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 17</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0017.mp3</guid>
+      <pubDate>Fri, 23 Apr 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0017.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 18</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0018.mp3</guid>
+      <pubDate>Fri, 30 Apr 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0018.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 19</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0019.mp3</guid>
+      <pubDate>Fri, 07 May 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0019.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 20</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0020.mp3</guid>
+      <pubDate>Fri, 14 May 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0020.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 21</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0021.mp3</guid>
+      <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0021.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 22</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0022.mp3</guid>
+      <pubDate>Fri, 28 May 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0022.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 23</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0023.mp3</guid>
+      <pubDate>Fri, 04 Jun 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0023.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 24</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0024.mp3</guid>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0024.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 25</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0025.mp3</guid>
+      <pubDate>Fri, 18 Jun 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0025.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 26</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0026.mp3</guid>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0026.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 27</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0027.mp3</guid>
+      <pubDate>Fri, 02 Jul 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0027.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 28</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0028.mp3</guid>
+      <pubDate>Fri, 09 Jul 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0028.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 29</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0029.mp3</guid>
+      <pubDate>Fri, 16 Jul 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0029.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 30</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0030.mp3</guid>
+      <pubDate>Fri, 23 Jul 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0030.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 31</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0031.mp3</guid>
+      <pubDate>Fri, 30 Jul 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0031.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 32</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0032.mp3</guid>
+      <pubDate>Fri, 06 Aug 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0032.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 33</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0033.mp3</guid>
+      <pubDate>Fri, 13 Aug 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0033.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 34</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0034.mp3</guid>
+      <pubDate>Fri, 20 Aug 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0034.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 35</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0035.mp3</guid>
+      <pubDate>Fri, 27 Aug 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0035.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 36</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0036.mp3</guid>
+      <pubDate>Fri, 03 Sep 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0036.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 37</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0037.mp3</guid>
+      <pubDate>Fri, 10 Sep 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0037.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 38</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0038.mp3</guid>
+      <pubDate>Fri, 17 Sep 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0038.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 39</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0039.mp3</guid>
+      <pubDate>Fri, 24 Sep 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0039.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 40</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0040.mp3</guid>
+      <pubDate>Fri, 01 Oct 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0040.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 41</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0041.mp3</guid>
+      <pubDate>Fri, 08 Oct 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0041.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 42</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0042.mp3</guid>
+      <pubDate>Fri, 15 Oct 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0042.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 43</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0043.mp3</guid>
+      <pubDate>Fri, 22 Oct 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0043.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 44</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0044.mp3</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0044.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 45</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0045.mp3</guid>
+      <pubDate>Fri, 05 Nov 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0045.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 46</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0046.mp3</guid>
+      <pubDate>Fri, 12 Nov 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0046.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 47</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0047.mp3</guid>
+      <pubDate>Fri, 19 Nov 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0047.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 48</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0048.mp3</guid>
+      <pubDate>Fri, 26 Nov 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0048.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 49</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0049.mp3</guid>
+      <pubDate>Fri, 03 Dec 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0049.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 50</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0050.mp3</guid>
+      <pubDate>Fri, 10 Dec 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0050.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 51</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0051.mp3</guid>
+      <pubDate>Fri, 17 Dec 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0051.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 52</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0052.mp3</guid>
+      <pubDate>Fri, 24 Dec 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0052.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 53</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0053.mp3</guid>
+      <pubDate>Fri, 31 Dec 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0053.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 54</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0054.mp3</guid>
+      <pubDate>Fri, 07 Jan 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0054.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 55</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0055.mp3</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0055.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 56</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0056.mp3</guid>
+      <pubDate>Fri, 21 Jan 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0056.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 57</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0057.mp3</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0057.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 58</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0058.mp3</guid>
+      <pubDate>Fri, 04 Feb 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0058.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 59</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0059.mp3</guid>
+      <pubDate>Fri, 11 Feb 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0059.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 60</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0060.mp3</guid>
+      <pubDate>Fri, 18 Feb 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0060.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 61</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0061.mp3</guid>
+      <pubDate>Fri, 25 Feb 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0061.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 62</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0062.mp3</guid>
+      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0062.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 63</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0063.mp3</guid>
+      <pubDate>Fri, 11 Mar 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0063.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 64</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0064.mp3</guid>
+      <pubDate>Fri, 18 Mar 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0064.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 65</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0065.mp3</guid>
+      <pubDate>Fri, 25 Mar 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0065.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 66</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0066.mp3</guid>
+      <pubDate>Fri, 01 Apr 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0066.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 67</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0067.mp3</guid>
+      <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0067.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 68</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0068.mp3</guid>
+      <pubDate>Fri, 15 Apr 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0068.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 69</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0069.mp3</guid>
+      <pubDate>Fri, 22 Apr 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0069.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 70</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0070.mp3</guid>
+      <pubDate>Fri, 29 Apr 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0070.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 71</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0071.mp3</guid>
+      <pubDate>Fri, 06 May 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0071.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 72</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0072.mp3</guid>
+      <pubDate>Fri, 13 May 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0072.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 73</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0073.mp3</guid>
+      <pubDate>Fri, 20 May 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0073.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 74</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0074.mp3</guid>
+      <pubDate>Fri, 27 May 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0074.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 75</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0075.mp3</guid>
+      <pubDate>Fri, 03 Jun 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0075.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 76</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0076.mp3</guid>
+      <pubDate>Fri, 10 Jun 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0076.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 77</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0077.mp3</guid>
+      <pubDate>Fri, 17 Jun 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0077.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 78</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0078.mp3</guid>
+      <pubDate>Fri, 24 Jun 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0078.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 79</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0079.mp3</guid>
+      <pubDate>Fri, 01 Jul 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0079.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 80</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0080.mp3</guid>
+      <pubDate>Fri, 08 Jul 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0080.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 81</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0081.mp3</guid>
+      <pubDate>Fri, 15 Jul 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0081.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 82</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0082.mp3</guid>
+      <pubDate>Fri, 22 Jul 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0082.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 83</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0083.mp3</guid>
+      <pubDate>Fri, 29 Jul 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0083.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 84</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0084.mp3</guid>
+      <pubDate>Fri, 05 Aug 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0084.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 85</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0085.mp3</guid>
+      <pubDate>Fri, 12 Aug 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0085.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 86</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0086.mp3</guid>
+      <pubDate>Fri, 19 Aug 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0086.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 87</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0087.mp3</guid>
+      <pubDate>Fri, 26 Aug 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0087.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 88</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0088.mp3</guid>
+      <pubDate>Fri, 02 Sep 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0088.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 89</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0089.mp3</guid>
+      <pubDate>Fri, 09 Sep 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0089.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 90</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0090.mp3</guid>
+      <pubDate>Fri, 16 Sep 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0090.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 91</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0091.mp3</guid>
+      <pubDate>Fri, 23 Sep 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0091.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 92</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0092.mp3</guid>
+      <pubDate>Fri, 30 Sep 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0092.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 93</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0093.mp3</guid>
+      <pubDate>Fri, 07 Oct 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0093.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 94</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0094.mp3</guid>
+      <pubDate>Fri, 14 Oct 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0094.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 95</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0095.mp3</guid>
+      <pubDate>Fri, 21 Oct 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0095.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 96</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0096.mp3</guid>
+      <pubDate>Fri, 28 Oct 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0096.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 97</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0097.mp3</guid>
+      <pubDate>Fri, 04 Nov 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0097.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 98</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0098.mp3</guid>
+      <pubDate>Fri, 11 Nov 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0098.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 99</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0099.mp3</guid>
+      <pubDate>Fri, 18 Nov 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0099.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 100</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0100.mp3</guid>
+      <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0100.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 101</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0101.mp3</guid>
+      <pubDate>Fri, 02 Dec 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0101.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 102</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0102.mp3</guid>
+      <pubDate>Fri, 09 Dec 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0102.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 103</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0103.mp3</guid>
+      <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0103.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 104</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0104.mp3</guid>
+      <pubDate>Fri, 23 Dec 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0104.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 105</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0105.mp3</guid>
+      <pubDate>Fri, 30 Dec 2022 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0105.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 106</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0106.mp3</guid>
+      <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0106.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 107</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0107.mp3</guid>
+      <pubDate>Fri, 13 Jan 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0107.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 108</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0108.mp3</guid>
+      <pubDate>Fri, 20 Jan 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0108.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 109</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0109.mp3</guid>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0109.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 110</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0110.mp3</guid>
+      <pubDate>Fri, 03 Feb 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0110.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
