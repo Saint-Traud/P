@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Fun Fact Friday - Episodes 1-110 (custom feed)</title>
+    <title>Fun Fact Friday - Episodes 1-115 (custom feed)</title>
     <link>https://funfactfriday.com</link>
     <language>en-us</language>
     <itunes:author>D.E. Medus</itunes:author>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
-    <description>Episodes 1 through 110, numbered only, for playback.</description>
+    <description>Episodes 1 through 115, numbered only, for playback.</description>
     <item>
       <title>Episode 1</title>
       <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0001.mp3</guid>
@@ -667,6 +667,36 @@
       <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0110.mp3</guid>
       <pubDate>Fri, 03 Feb 2023 12:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0110.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 111</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0111.mp3</guid>
+      <pubDate>Fri, 10 Feb 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0111.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 112</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0112.mp3</guid>
+      <pubDate>Fri, 17 Feb 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0112.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 113</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0113.mp3</guid>
+      <pubDate>Fri, 24 Feb 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0113.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 114</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0114.mp3</guid>
+      <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0114.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Episode 115</title>
+      <guid isPermaLink="true">https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0115.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/ipfspodcasting.net/e/funfactfriday.com/ep/mp3/FunFactFriday-Episode-0115.mp3" type="audio/mpeg" length="0"/>
     </item>
   </channel>
 </rss>
